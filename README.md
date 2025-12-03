@@ -1,5 +1,7 @@
 # LOGISTICS REPORT (2020 TO 2024)
-A 3-page well detailed report with the goal to provide comprehensive visibility into logistics performance using key metrics using Power BI.
+This is a 3-page well detailed report with the goal to providing comprehensive visibility into logistics performance using key metrics using **Power BI**.
+
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/Power%20BI.png)
 
 ---
 ## 📂 INTRODUCTION
