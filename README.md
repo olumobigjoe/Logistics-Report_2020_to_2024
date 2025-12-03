@@ -35,7 +35,7 @@ Structured analysis pivot on these three key focus areas:
 ---
 
 
-## 📁 PROJECT OVERVIEW & VISUALIZATION
+## 📁 OVERVIEW, INSIGHTS & VISUALIZATION
 <p align = 'justify'> This report provides an in-depth analysis of logistics data, focusing on shipment completion rates, in-progress shipments, shipment values, and delivery times. It is designed to track the performance of completed shipments, the status of in-progress shipments, and insights into customer satisfaction, carrier performance, and delivery metrics across different regions.</p>
 The report is split into three key sections:
 1.	Overview and Shipment Trends
