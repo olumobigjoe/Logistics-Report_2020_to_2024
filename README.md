@@ -42,7 +42,7 @@ Structured analysis pivot on these three key focus areas:
 
 ---
 
-## DAX
+## 🗒️ DAX
 Analysis done using several DAX
 
 ![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/MOM_S_in_Prog.png)
