@@ -34,6 +34,9 @@ Structured analysis pivot on these three key focus areas:
 3.	Executive Summary Slide Deck
 ---
 
+## SCHEMA MODEL DIAGRAM
+
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/SCHEMA%20DIAGRAM.png)
 
 ## 📁 OVERVIEW, INSIGHTS & VISUALIZATION
 <p align = 'justify'> This report provides an in-depth analysis of logistics data, focusing on shipment completion rates, in-progress shipments, shipment values, and delivery times. It is designed to track the performance of completed shipments, the status of in-progress shipments, and insights into customer satisfaction, carrier performance, and delivery metrics across different regions.</p>
