@@ -34,7 +34,7 @@ Structured analysis pivot on these three key focus areas:
 3.	Executive Summary Slide Deck
 ---
 
-## SCHEMA MODEL DIAGRAM
+## 🔗 SCHEMA MODEL DIAGRAM
 
 ![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/SCHEMA%20DIAGRAM.png)
 
