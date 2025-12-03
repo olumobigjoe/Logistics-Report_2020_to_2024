@@ -4,9 +4,9 @@ A 3-page well detailed report with the goal to provide comprehensive visibility 
 ---
 ## 📂 INTRODUCTION
 <p align = "justify">A leading logistics company is currently facing challenges in maintaining delivery efficiency, ensuring customer satisfaction, and optimizing shipment performance across different transport modes and regions. Despite growing demand, the organization has observed inconsistencies in shipment completion rates, delays in high-priority deliveries, and varied levels of customer feedback, particularly tied to certain modes of transport such as Motorbikes and Lorries. Regional disparities in delivery times and shipment value have also raised concerns about route planning and carrier performance.
-As a data analyst, you have been brought in to perform a comprehensive analysis of the company’s logistics data spanning from 2020 to 2024. Your task is to uncover insights that will help decision-makers understand the underlying causes of these issues and support data-driven improvements to the logistics operation.</p>
+As a data analyst, the task is to uncover insights that will help decision-makers understand the underlying causes of these issues and support data-driven improvements to the logistics operation.</p>
 <p align = 'justify'> 
-Structure your analysis around three key focus areas:
+Structured analysis pivot on these three key focus areas:
 
   - Track shipment volumes, identify trends in completed versus in-progress shipments, and assess delivery performance across time.
   - Break down expected shipment volumes by transport type (Jet, Bus, Lorry, Motorbike), priority level, and geographic distribution to reveal demand patterns and bottlenecks.
@@ -34,16 +34,15 @@ Structure your analysis around three key focus areas:
 3.	Executive Summary Slide Deck
 ---
 
-## PROJECT OVERVIEW
-### Overview:
-<p align = 'justify'> This report provides an in-depth analysis of logistics data, focusing on shipment completion rates, in-progress shipments, shipment values, and delivery times. It is designed to track the performance of completed shipments, the status of in-progress shipments, and insights into customer satisfaction, carrier performance, and delivery metrics across different regions.
+## 📁 PROJECT OVERVIEW
+<p align = 'justify'> This report provides an in-depth analysis of logistics data, focusing on shipment completion rates, in-progress shipments, shipment values, and delivery times. It is designed to track the performance of completed shipments, the status of in-progress shipments, and insights into customer satisfaction, carrier performance, and delivery metrics across different regions.</p>
 The report is split into three key sections:
 1.	Overview and Shipment Trends
 2.	Shipment Forecasting by Shipping Mode (Jet, Bus, Lorry, Motorbike)
 3.	Customer Experience and Delivery Metrics
 
-### Page 1: Overview of Shipment Status
-#### Key Insights:
+### 📃 Page 1: Overview of Shipment Status
+#### 🔑 Key Insights:
 Completed Shipments:
 *	Total completed shipments stand at 15.5K, with a 25% increase compared to the previous year.
 *	The value of completed shipments is $8.82M, with a 25% increase from the previous year.
@@ -55,8 +54,10 @@ In Progress Shipments:
 * Shipment Trend Analysis:
 * The report also highlights trends over the months and years, giving insights into the growth and challenges in shipment deliveries.
 
-### Page 2: Shipment Forecasting by Shipping Mode
-#### Key Insights:
+### 📃 Page 2: Shipment Forecasting by Shipping Mode
+#### 🔑 Key Insights:
+<p align = 'justify'>
+  
 Jet Shipments:
 * 9,336 shipments are expected to be delivered by Jet, with High priority shipments accounting for 3,117 of the deliveries.
 Bus Shipments:
@@ -66,10 +67,12 @@ Lorry Shipments:
 Motorbike Shipments:
 * 9,993 shipments are expected to be delivered by Motorbike, with Medium priority shipments accounting for 3,569 deliveries.
 Regional Breakdown:
-* Each transportation mode has its shipments distributed across different regions, including Lagos, Abuja, Port Harcourt, and more. The analysis helps identify key regional shipment trends and delivery performance.
+* Each transportation mode has its shipments distributed across different regions, including Lagos, Abuja, Port Harcourt, and more. The analysis helps identify key regional shipment trends and delivery performance. </p>
 
-### Page 3: Customer Experience and Delivery Metrics
-#### Key Insights:
+### 📃 Page 3: Customer Experience and Delivery Metrics
+#### 🔑 Key Insights:
+<p align = 'justify'>
+  
 Customer Type Breakdown:
 * Business customers account for 35.99% of completed shipments, followed by Retail and International customers at 32.85% and 31.16% respectively.
 Shipment Status:
@@ -81,5 +84,31 @@ Payment and Rating:
 * The payment status (paid or pending) and delivery rating are tracked to correlate how the payment status impacts customer satisfaction.
 </p>
 
+---
 
+## ⛓️ CONCLUSION
+<p align = 'justify'>
+  
+This comprehensive Logistics Analysis Report allows stakeholders to get a clear picture of shipment performance, identify priority issues, and take action to improve logistics efficiency. The insights gained from this analysis can assist in enhancing shipment delivery timelines, optimizing transportation modes, and improving customer satisfaction.
+</p>
+
+---
+
+## 🗄️ RECOMMENDATIONS
+<p align = 'justify'>
+
+*	Focus on improving the delivery times for Motorbike and Lorry shipments.
+*	Prioritize high-value and high-priority shipments to ensure they are delivered promptly.
+*	Use the regional insights to optimize shipment routes and carrier performance.
+</p>
+
+---
+
+## 🛂 ABOUT ME
+<p align = 'justify'>
+
+I transform complex data into actionable insights using analytics and visualization. Moreso, to help understand trends and improve efficiency for the future.
+</p>
+
+**connect with me** @https://www.linkedin.com/in/ibukun-olumodeji-a94384103
 
