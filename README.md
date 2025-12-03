@@ -40,6 +40,20 @@ Structured analysis pivot on these three key focus areas:
 
 ![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/SCHEMA%20DIAGRAM.png)
 
+---
+
+## DAX
+Analysis done using several DAX
+
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/MOM_S_in_Prog.png)
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/MOM_Ship_Comp.png)
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/MOM_Ship_Value.png)
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/YOY_S_in_Prog.png)
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/YOY_Ship_Comp.png)
+![Alt text for accessibility](https://github.com/olumobigjoe/Logistics-Report_2020_to_2024/blob/main/YOY_Ship_Value.png)
+
+---
+
 ## 📁 OVERVIEW, INSIGHTS & VISUALIZATION
 <p align = 'justify'> This report provides an in-depth analysis of logistics data, focusing on shipment completion rates, in-progress shipments, shipment values, and delivery times. It is designed to track the performance of completed shipments, the status of in-progress shipments, and insights into customer satisfaction, carrier performance, and delivery metrics across different regions.</p>
 The report is split into three key sections:
